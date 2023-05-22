@@ -1,6 +1,6 @@
 # Typescript MetaMask Wallet Login Simplet Program
 
-Using web3.js to login the metamask wallet address
+Using web3.js to login the metamask wallet address with React.js
 
 #### Install the package
 

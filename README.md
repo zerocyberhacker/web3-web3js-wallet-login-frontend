@@ -21,4 +21,3 @@ Using web3.js to login the metamask wallet address with React.js
 ## Authors
 
 - [@zerocyberhacker](https://github.com/zerocyberhacker)
-# web3-web3js-wallet-login-frontend
